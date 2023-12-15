@@ -1,0 +1,53 @@
+body{
+  background-color: aquamarine;
+  
+  width: 100%;
+}
+.container{
+    position: static;
+    padding: 30px;
+    width: 100%;
+    margin: 20px;
+    border: none;
+    border-radius: 9px;
+    align-items: center;
+    background-color: cadetblue;
+    opacity: .7;
+    
+    
+    
+}
+
+.submit{
+    border-radius: 25px;
+}
+
+
+input[type = 'text']{
+  width: 300px;
+}
+
+table{
+    /* border: solid; */
+    /* font-family: arial, sans-serif;
+    border-collapse: collapse;
+    border-radius: 50px;
+    width: 60%;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin: 20px; */
+}
+
+tr{
+    /* border: 3px solid; */
+}
+
+td, th {
+    /* border: 1px solid gray; */
+    text-align: center;
+    /* padding: 8px; */
+}
+
+th{
+  text-align: left;
+}
